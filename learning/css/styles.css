@@ -1,0 +1,10 @@
+.perfil-photo {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+}
+
+body {
+    background-color: rgb(192, 211, 211);
+    font-family: Helvetica, sans-serif;
+}
